@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**criticalswateam1/criticalswateam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## <div align="center">I'm Critical_DevX, mainly a Discord Bot Developer! Working since 2020 on Bots 🚀</div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://discord.c99.nl/widget/theme-1/832663333529845772.png)  
+
+***
+
+- 🔭 I’m currently working on a [**Technology company called "Developer Tech"**](https://discord.developertech.co.za/)
+  
+
+- 🌱 I’m currently coding in **Javascript** and Python.  
+  
+
+- ❓  I am in love with coding Discord Bots, I also love helping!.
+  
+<br/>
+  
+***
+
+## [Discord Server 😎](https://discord.developertech.co.za/) | [Website](https://milrato.dev)
+<a href="https://discord.developertech.co.za/"><img src="https://discord.com/api/guilds/941362510194417704/widget.json"></a>
+
+***
+
+## SUPPORT ME AND DEVELOPER TECH DEVELOPMENT
+
+> You can always Support me by inviting one of my **own Discord Bots**
+
+
