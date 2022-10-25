@@ -1,6 +1,6 @@
 
 
-## <div align="center">I'm Critical_DevX, mainly a Discord Bot Developer! Working since 2020 on Bots 🚀</div>  
+## <div align="center">I'm Critical, mainly a Discord Bot Developer! Working since 2020 on Bots 🚀</div>  
 
 ![](https://discord.c99.nl/widget/theme-1/832663333529845772.png)  
 
@@ -18,8 +18,8 @@
   
 ***
 
-## [Discord Server 😎](https://discord.developertech.co.za/) | [Website](https://milrato.dev)
-<a href="https://discord.developertech.co.za/"><img src="https://discord.com/api/guilds/941362510194417704/widget.json"></a>
+## [Discord Server 😎](https://discord.developertech.co.za/) | [Website](https://developertech.co.za)
+<a href="https://discord.developertech.co.za/"><img src="https://discord.com/api/guilds/941362510194417704/widget.png?style=banner2"></a>
 
 ***
 
