@@ -1,10 +1,11 @@
 
 
-## <div align="center">I'm Critical, mainly a Discord Bot Developer! Working since 2020 on Bots 🚀</div>  
+## <div align="center">Hi 👋, Im Critical_DevX</div>  
 
 ![](https://discord.c99.nl/widget/theme-1/832663333529845772.png)  
 
 ***
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on a [**Technology company called "Developer Tech"**](https://discord.developertech.co.za/)
   
