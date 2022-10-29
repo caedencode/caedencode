@@ -22,7 +22,7 @@
 
 <h3 align="left">Support:</h3>
 
-## [](https://discord.developertech.co.za/) |
+## [](https://discord.developertech.co.za/) 
 
 <a href="https://discord.developertech.co.za/"><img src="https://discord.com/api/guilds/941362510194417704/widget.png?style=banner2"></a>
 <a href="developertech.co.za/"><img src="https://developertech.co.za/cdn/websitebanner.png"></a>
