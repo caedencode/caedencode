@@ -22,15 +22,6 @@
 
 <h3 align="left">Support:</h3>
 
-
-
-
-
-***
-## [Discord Server ](https://discord.developertech.co.za/) | [Website](https://developertech.co.za)
+## [](https://discord.developertech.co.za/) | [Website](https://developertech.co.za)
 <a href="https://discord.developertech.co.za/"><img src="https://discord.com/api/guilds/941362510194417704/widget.png?style=banner2"></a>
-## SUPPORT ME AND DEVELOPER TECH DEVELOPMENT
-
-> You can always Support me by inviting one of my **own Discord Bots**
-
 
