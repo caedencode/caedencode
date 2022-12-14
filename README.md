@@ -2,8 +2,7 @@
 <h2 align="center"> 👨‍💻 Who am i?</h2>
 <p align="center">
   <samp>
-    I am a developer that works in Javascript, html, css, python, and many more! I make open-source websites and templates for the general public to use and enjoy.
-    All my templates are original and not copied from anywhere!
+    I am a developer that works in Javascript, html, css, python, and many more!
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=criticalswateam1" alt="https://github.com/criticalswateam1" />
