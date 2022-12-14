@@ -9,15 +9,18 @@
   <img src="https://komarev.com/ghpvc/?username=criticalswateam1" alt="https://github.com/criticalswateam1" />
 </p>
 
-![](https://discord.c99.nl/widget/theme-4/832663333529845772.png)  
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+   <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align="center">CSS, Python, Javascript, Bootstrap, Nodejs, HTML</p>
 
-***
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<hr>
 
-- 👨‍💻 All of my projects are available at Developer Techs Discord Server
-- ⚡ Fun fact I have a youtube channel.
-  
-***
 
 <h3 align="left">Connect with me:</h3>
 
