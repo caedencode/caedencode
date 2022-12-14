@@ -1,5 +1,5 @@
 
-<h2 align="center"> 👨‍💻 Who am i?</h2>
+<h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
     I am a developer that works in Javascript, html, css, python, and many more!
