@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/amitkumarhq/AmitKumarHQ/master/src/Banner%20Ultrawide.png" style="box-shadow: 3px 3px 10px #00000035">
 <br/>
 
-# Hey There, I'm Amit!
+# Hey There, I'm Critical
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
