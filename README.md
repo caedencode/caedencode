@@ -7,14 +7,8 @@
 
 Greetings! My name is Critical_DevX and I'm a skilled Programmer and Full Stack Developer.
 ```
-<h2 align="center"> 👨‍💻 Who am I?</h2>
-<p align="center">
-  <samp>
-    I am a developer that works in Javascript, html, css, python, and many more!
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=criticalswateam1" alt="https://github.com/criticalswateam1" />
-</p>
+- 🔭 **Currently,** I am engrossed in the realm of web development.
+- 🌱 **Presently,** I am expanding my knowledge in discord.js, machine learning next.js.
 
 <h2 align="center"> 🔭 Tools that I use</h2>
 <p align="center">
