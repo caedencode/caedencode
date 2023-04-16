@@ -7,6 +7,7 @@
 
 Greetings! My name is Critical_DevX and I'm a skilled Programmer and Full Stack Developer.
 ```
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" />
 - 🔭 **Currently,** I am engrossed in the realm of web development.
 - 🌱 **Presently,** I am expanding my knowledge in discord.js, machine learning next.js.
 
@@ -21,7 +22,6 @@ Greetings! My name is Critical_DevX and I'm a skilled Programmer and Full Stack 
 <p align="center">CSS, Python, Javascript, Bootstrap, Nodejs, HTML</p>
 
 <hr>
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" />
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
