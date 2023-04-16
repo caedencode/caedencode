@@ -23,3 +23,13 @@ Greetings! My name is Critical_DevX and I'm a skilled Programmer and Full Stack 
 <a href="https://github.com/" target="_blank"><img class="icon" align="left" alt="GitHub" width="32px" src="github.svg" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img class="icon" align="left" alt="Tailwind CSS" width="32px" src="tailwindcss.svg" /></a>
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=criticalswateam1&show_icons=true&theme=dark#gh-dark-mode-only">
+
+[<img align="left" alt="Critical_DevX | Discord" width="32px" src="discord.svg" />][discord]
+[<img align="left" alt="Caeden Rajoo | Discord" width="32px" src="github.svg" />][github]
+
+<!-- Links -->
+
+[discord]: https://discordapp.com/users/832663333529845772
+[github]: https://github.com/criticalswateam1
