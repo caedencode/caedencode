@@ -3,9 +3,7 @@
 
 # Hey There 👋🏻
 ```yaml
-<Quick Introduction>
-
-Greetings! My name is Critical_DevX and I'm a skilled Programmer and Full Stack Developer.
+[CONTENT REDACTED]
 ```
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" />
 
