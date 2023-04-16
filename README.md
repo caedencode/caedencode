@@ -1,8 +1,12 @@
 <img src="https://raw.githubusercontent.com/amitkumarhq/AmitKumarHQ/master/src/Banner%20Ultrawide.png" style="box-shadow: 3px 3px 10px #00000035">
 <br/>
 
-# Hey There, I'm Critical
+# Hey There 👋🏻
+```yaml
+<Quick Introduction>
 
+Greetings! My name is Critical_DevX and I'm a skilled Programmer and Full Stack Developer.
+```
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
