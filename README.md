@@ -23,7 +23,7 @@
 <p align="center">CSS, Python, Javascript, Bootstrap, Nodejs, HTML</p>
 
 <hr>
-
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" />
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
