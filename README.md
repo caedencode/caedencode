@@ -1,13 +1,7 @@
-<img src="https://raw.githubusercontent.com/amitkumarhq/AmitKumarHQ/master/src/Banner%20Ultrawide.png" style="box-shadow: 3px 3px 10px #00000035">
-<br/>
+
 
 # Wassup
-```yaml
-[CONTENT DELETED]
-```
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" />
-
-- 🔭 I am Critical a learning Javascript developer and a python dev.
 
 ### Programming Languages and Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="vscode.svg" /></a>
