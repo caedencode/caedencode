@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Developer Tech](https://developertech.co.za)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **N/A**
 
 - 📫 How to reach me **criticalswateam1@gmail.com**
 
-- ⚡ Fun fact **Use TailwindCSS**
+- ⚡ Please **use TailwindCSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
