@@ -1,5 +1,5 @@
-<h1 align="center">Wassup, I'm Critical_DevX</h1>
-<h3 align="center">Im a Developer yes yes</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wassup!+Im+Caeden+Rajoo;I+own+a+development+company.;https%3A%2F%2Fdevelopertech.co.za" alt="Typing SVG" /></a>
 
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/832663333529845772?bg=00000000" />
 
