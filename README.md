@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wassup!+Im+Caeden+Rajoo;I+own+a+development+company.;https%3A%2F%2Fdevelopertech.co.za" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wassup!+Im+Caeden+Rajoo;I+own+a+development+company.;https%3A%2F%2Fdevelopertech.co.za](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hello!+I+am+Caeden.;nebulalab.xyz;Looking+to+collaborate%3F+;Mail+me+at%3A+caedenrajoo%40duck.com" alt="Typing SVG" /></a>
 
 ```python
 
