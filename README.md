@@ -3,7 +3,7 @@
 
 ```python
 
-class criticalswateam1:
+class caedenrajoo:
 
     def __info__(self):
         self.bio = '''
@@ -11,14 +11,15 @@ class criticalswateam1:
             I mainly program in Javascript.'''
 
     def  __social__(self):
-        self.discord = ("criticaldevx", 832663333529845772)
-        self.youtube = ("@criticaldevx")
+        self.discord = ("caedencode", 832663333529845772)
     
     def __dev__(self):
         self.skills = {
             "python": "known",
             "javascript": "known",
             "C++, C": "learning",
+            "go" : "known",
+            "rust: "known"
         } 
 ```
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=caedencode&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
